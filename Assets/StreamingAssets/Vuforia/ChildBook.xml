@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Animals" size="4.000000 5.660378" />
+    <ImageTarget name="Color" size="4.000000 5.703704" />
+    <ImageTarget name="Numbers" size="4.000000 5.703704" />
+    <ImageTarget name="GiveMooseMuffin" size="4.000000 5.672727" />
+    <ImageTarget name="Corduroy" size="4.000000 5.672727" />
+    <ImageTarget name="VeryHungryCaterpillar" size="4.000000 5.672727" />
+    <ImageTarget name="BenVenedik" size="4.000000 5.735849" />
+    <ImageTarget name="BenRodin" size="4.000000 5.735849" />
+    <ImageTarget name="BenPicasso" size="4.000000 5.672727" />
+    <ImageTarget name="BenKitap" size="4.000000 5.660378" />
+    <ImageTarget name="BenHali" size="4.000000 5.735849" />
+    <ImageTarget name="BenEserleriKoruyorum" size="4.000000 5.660378" />
+    <ImageTarget name="BenDali" size="4.000000 5.692307" />
+    <ImageTarget name="BenCengizhan" size="4.000000 5.760000" />
+  </Tracking>
+</QCARConfig>
